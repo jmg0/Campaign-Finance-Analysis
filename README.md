@@ -6,8 +6,8 @@ This project analyzed individual contributions to presidential campaigns in 2019
 
 2. Mapping - detailed in Data Analysis README
 
-3. [Web Application](https://github.com/jmg0/Campaign-Finance-Web-2)
+3. [Web Application](https://github.com/jmg0/Campaign-Finance-Web-1)
 
-4. [Website Build](https://github.com/jmg0/Campaign-Finance-Web-2/tree/gh-pages)
+4. [Website Build](https://github.com/jmg0/Campaign-Finance-Web-1/tree/gh-pages)
 
-5. [Current website](https://jmg0.github.io/Campaign-Finance-Web-2/)
+5. [Current website](https://jmg0.github.io/Campaign-Finance-Web-1/)
