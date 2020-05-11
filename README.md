@@ -2,8 +2,8 @@
 
 This project analyzed individual contributions to presidential campaigns in 2019. The project was completed across four component phases, shown below and linked to their corresponding repositores. Item five links to the deployed website.
 
-# Note if you are here from MLH
-I thought this project would make more sense storing it across different repos and linking them all from here. Data Analysis (#1) was entirely done in Python, while #2-5 were done primarily with JavaScript/HTML/CSS. I chose to submit this project because it is substantive, but my Python skills have improved dramatically since this project, and I would love to discuss the many improvements that could be made in this code. Thank you for considering my application!
+# NOTE: if you are here from MLH
+I chose to submit this project because it is substantive, but my Python skills have improved dramatically since completing this, and I would love to discuss the many improvements that could be made in this code. Thank you for considering my application! As noted above, the project is stored across different repos, all of which are linked below. Data Analysis (#1) was entirely done in Python, while #2-5 were done primarily with JavaScript/HTML/CSS.
 
 1. [Data Analysis](https://github.com/jmg0/Campaign-Finance)
 
