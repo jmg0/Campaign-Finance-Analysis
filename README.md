@@ -1,6 +1,6 @@
 # Campaign-Finance-Analysis
 
-This project analyzed individual contributions to presidential campaigns in 2019. The project was completed across four component phases, shown below and linked to their corresponding repositores. Item five links to the deployed website.
+This project analyzed individual contributions to presidential campaigns in 2019-2020. The project was completed across four component phases, shown below and linked to their corresponding repositores. Item five links to the deployed website.
 
 1. [Data Analysis](https://github.com/jmg0/Campaign-Finance)
 
