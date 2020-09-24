@@ -13,3 +13,5 @@ The project was completed across four component phases, shown below and linked t
 4. [Website Build](https://github.com/jmg0/Campaign-Finance-Web-1/tree/gh-pages)
 
 5. [Current website](https://jmg0.github.io/Campaign-Finance-Web-1/)
+
+Updating per next branch.
